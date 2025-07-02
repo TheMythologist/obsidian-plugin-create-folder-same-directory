@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "create-folder-same-directory",
+	"name": "Create Folder Same Directory Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Creates folders in the same directory as your current file.",
+	"author": "TheMythologist",
+	"authorUrl": "https://github.com/TheMythologist",
 	"isDesktopOnly": false
 }
